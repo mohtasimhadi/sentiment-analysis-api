@@ -13,7 +13,7 @@ This project implements a backend service that provides a RESTful API endpoint f
 1. Clone the repository:
 
    ```
-   git clone git@github.com:mohtasimhadi/sentiment-analysis-api.git
+   git clone https://github.com/mohtasimhadi/sentiment-analysis-api
    cd sentiment-analysis-api
 
    ```
